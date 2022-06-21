@@ -63,7 +63,7 @@
         <dependency>
             <groupId>mysql</groupId>
             <artifactId>mysql-connector-java</artifactId>
-            <version>5.1.44</version>
+            <version>8.0.28</version>
         </dependency>
 
         <!--druid连接池依赖-->
@@ -120,7 +120,7 @@
                     <dependency>
                         <groupId>mysql</groupId>
                         <artifactId>mysql-connector-java</artifactId>
-                        <version>5.1.44</version>
+                        <version>8.0.28</version>
                     </dependency>
                     <dependency>
                         <groupId>tk.mybatis</groupId>
